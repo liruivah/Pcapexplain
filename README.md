@@ -8,4 +8,4 @@ Dealing pcap files for DMTCS in paper Novel Dynamic Multiple Classification Syst
  main.cpp: the main process of the header remove process.
  
  
-# all right reserved
+all right reserved
